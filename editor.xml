@@ -16,4 +16,14 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
+    <settingsMapElement>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
+    </settingsMapElement>
+  </component>
 </application>
