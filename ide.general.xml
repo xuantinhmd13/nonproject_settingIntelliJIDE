@@ -1,5 +1,7 @@
 <application>
   <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="E:\CODE\IDE\IntelliJIDEA" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="StatusBar">
